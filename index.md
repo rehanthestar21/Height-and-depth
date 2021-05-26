@@ -1,4 +1,4 @@
-## Welcome to Private policy.
+## Welcome to Privacy policy.
 
 By using the app "Height and Depth" you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
 
