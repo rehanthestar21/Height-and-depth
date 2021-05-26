@@ -1,19 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Private policy.
 
-You can use the [editor on GitHub](https://github.com/rehanthestar21/heightanddepth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+By using the app "Height and Depth" you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Collection of Personal Information
+We do not collect, store, use or share any information, personal or otherwise.
 
-### Markdown
+Email
+If you email us for support or other feedback, the email addresses will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any marketing purpose.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Disclosure of Personal Information
+We do not disclose your information to any third party except if you expressly consent or where required by law.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rehanthestar21/heightanddepth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contacting Us
+If you have any questions regarding this privacy policy, you can email at rehanagrawal.business@gmail.com 
